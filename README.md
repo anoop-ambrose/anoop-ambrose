@@ -4,21 +4,21 @@ Hi! I’m Anoop Ambrose, a dedicated Cybersecurity & Penetration Testing profess
 ---
 🛠 Skills & Tools
 
--Penetration Testing: Web apps, networks, Windows/Linux environments
--Red Team Simulations: Realistic attack scenario replication
--Vulnerability Analysis: Scanning, exploiting, and reporting security gaps
--Tools: Burp Suite (Proficient), Nmap, Metasploit, Wireshark, LinPEAS
--Labs & Platforms: Hack The Box, TryHackMe, custom labs
--Reporting: Structured documentation highlighting risks and mitigations
+*Penetration Testing: Web apps, networks, Windows/Linux environments
+*Red Team Simulations: Realistic attack scenario replication
+*Vulnerability Analysis: Scanning, exploiting, and reporting security gaps
+*Tools: Burp Suite (Proficient), Nmap, Metasploit, Wireshark, LinPEAS
+*Labs & Platforms: Hack The Box, TryHackMe, custom labs
+*Reporting: Structured documentation highlighting risks and mitigations
 
 ---
 🌟 Why Recruiters Should Notice Me
 
--Hands-On Expertise: Practical, real-world e
--xperience—not just theory
--Problem Solver: Adaptable and quick at finding solutions under challenging scenarios
--Result-Oriented: Focused on actionable outcomes that improve security posture
--Portfolio Ready: Demonstrable work available through GitHub projectsand lab walkthroughs
+*Hands-On Expertise: Practical, real-world
+*Experience—not just theory
+*Problem Solver: Adaptable and quick at finding solutions under challenging scenarios
+*Result-Oriented: Focused on actionable outcomes that improve security posture
+*Portfolio Ready: Demonstrable work available through GitHub projectsand lab walkthroughs
 
 ---
 
