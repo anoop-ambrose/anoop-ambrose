@@ -9,14 +9,12 @@ Vulnerability Analysis: Scanning, exploiting, and reporting security gaps
 Tools: Burp Suite (Proficient), Nmap, Metasploit, Wireshark, LinPEAS
 Labs & Platforms: Hack The Box, TryHackMe, custom labs
 Reporting: Structured documentation highlighting risks and mitigations
-
 🌟 Why Recruiters Should Notice Me
 Hands-On Expertise: Practical, real-world experience—not just theory
 Problem Solver: Adaptable and quick at finding solutions under challenging scenarios
 Result-Oriented: Focused on actionable outcomes that improve security posture
 Portfolio Ready: Demonstrable work available through GitHub projects
  and lab walkthroughs
- 
 🔗 Connect With Me
 
 I’m actively looking for opportunities in penetration testing, red teaming, and cybersecurity roles.
