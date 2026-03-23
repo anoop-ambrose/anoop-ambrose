@@ -36,8 +36,12 @@ Portfolio Ready: Demonstrable work available through GitHub projects and lab wal
 
 I’m actively looking for opportunities in penetration testing, red teaming, and cybersecurity roles.
 
-GitHub: github.com/anoop-ambrose
-LinkedIn: linkedin.com/in/anoop-ambrose
+GitHub: https://github.com/anoop-ambrose/anoop-ambrose
+
+LinkedIn: www.linkedin.com/in/anoop-ambrose
+
+Pentest Portfolio : https://github.com/anoop-ambrose/pentesting-portfolio
+
 
 ---
 
