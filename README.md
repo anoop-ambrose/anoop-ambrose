@@ -43,20 +43,19 @@ My work centers around building realistic security labs that simulate attack, de
 I enjoy understanding both offensive and defensive security by combining penetration testing techniques with security monitoring and threat detection.
 
 ---
-# 📌 Profile Snapshot
+## 📌 Profile Snapshot
 
-||Area  | Focus |
-|Primary Focus|SOC Operations & Detection Engineerg |
-||SIEM | Wazuh |
-| Security Domians | Monitoring, Detection, Investigation |
-| Operating Systems | Linux & Windows |
-| Lab Environment | Kali Linux, Ubuntu, Windows |
-| Web Security | Apache, Burp Suite, Gobuster |
-| Offensive Security | Nmap, Hydra, Enumeration |
-| Frame Work | MITRE ATT&CK |
-| Current Focus | Security Analyst / SOC Analyst Opportunities |
-
-
+| Area | Focus |
+|---|---|
+| 🎯 Primary Focus | SOC Operations & Detection Engineering |
+| 🛡️ SIEM | Wazuh |
+| 🔍 Security Domains | Monitoring • Detection • Investigation |
+| 💻 Operating Systems | Linux • Windows |
+| 🧪 Lab Environment | Kali Linux • Ubuntu • Windows |
+| 🌐 Web Security | Apache • Burp Suite • Gobuster |
+| ⚔️ Offensive Security | Nmap • Hydra • Enumeration |
+| 📚 Framework | MITRE ATT&CK |
+| 🚀 Career Focus | Security Analyst / SOC Analyst Opportunities |
 ---
 
 # 🛠️ Tech Stack
