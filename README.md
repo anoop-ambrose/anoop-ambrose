@@ -45,12 +45,16 @@ I enjoy understanding both offensive and defensive security by combining penetra
 ---
 # 📌 Profile Snapshot
 
-• Focus Area: SOC Operations & Detection Engineerg
-• Primary SIEM: Wazuh
-• Operating Systems: Linux & Windows
-• Security Domains: Monitoring, Detection, Investigation
-• Lab Environment: Kali Linux, Ubuntu, Windows
-• Current Goal: Security Analyst / SOC Analyst Opportunities
+||Area  | Focus |
+|Primary Focus|SOC Operations & Detection Engineerg |
+||SIEM | Wazuh |
+| Security Domians | Monitoring, Detection, Investigation |
+| Operating Systems | Linux & Windows |
+| Lab Environment | Kali Linux, Ubuntu, Windows |
+| Web Security | Apache, Burp Suite, Gobuster |
+| Offensive Security | Nmap, Hydra, Enumeration |
+| Frame Work | MITRE ATT&CK |
+| Current Focus | Security Analyst / SOC Analyst Opportunities |
 
 
 ---
