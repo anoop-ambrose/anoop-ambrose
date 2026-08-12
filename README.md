@@ -6,18 +6,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner/light.svg">
-    <img alt="Anoop Ambrose GitHub Banner" src="./assets/banner/dark.svg" width="100%">
+    <img
+      src="./assets/banner/dark.svg"
+      alt="Anoop Ambrose GitHub Banner"
+    >
   </picture>
 </p>
 
 <h1 align="center">
-Anoop Ambrose
+  Anoop Ambrose
 </h1>
 
 <p align="center">
-
-SOC Analyst • Security Engineer • Penetration Testing Enthusiast
-
+  SOC Analyst • Security Engineer • Penetration Testing Enthusiast
 </p>
 
 <p align="center">
