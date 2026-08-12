@@ -36,20 +36,22 @@ SOC Analyst • Security Engineer • Penetration Testing Enthusiast
 
 # 👋 About Me
 
-I am passionate about building defensive security labs while continuously improving my penetration testing skills.
+I am a Cybersecurity Practitioner focused on Security Operations, Detection Engineering, and Incident Investigation.
 
-My current work focuses on Security Monitoring, Detection Engineering, Incident Response, SIEM Engineering, and Web Application Security.
+My work centers around building realistic security labs that simulate attack, detection, and response workflows using Wazuh SIEM, Linux systems, and web applications.
+
+I enjoy understanding both offensive and defensive security by combining penetration testing techniques with security monitoring and threat detection.
 
 ---
+# 📌 Profile Snapshot
 
-# 🚀 Current Focus
+• Focus Area: SOC Operations & Detection Engineerg
+• Primary SIEM: Wazuh
+• Operating Systems: Linux & Windows
+• Security Domains: Monitoring, Detection, Investigation
+• Lab Environment: Kali Linux, Ubuntu, Windows
+• Current Goal: Security Analyst / SOC Analyst Opportunities
 
-- Wazuh SIEM
-- Detection Engineering
-- Incident Response
-- Web Application Security
-- MITRE ATT&CK
-- SOC Investigation
 
 ---
 
@@ -85,18 +87,23 @@ My current work focuses on Security Monitoring, Detection Engineering, Incident 
 
 # 🔥 Featured Projects
 
-## 🛡️ Enterprise Wazuh SOC Lab
+## 🛡️ Wazuh SOC Lab
 
-Professional SOC home lab featuring
+🔗 Repository: [View Project](repo-link)
 
-- SIEM Monitoring
-- Ubuntu Agent
-- Windows Agent
-- Detection Rules
-- MITRE ATT&CK Mapping
-- Incident Investigation
+Features:
+- Multi-machine architecture
+- SSH brute-force detection
+- Apache monitoring
+- MITRE ATT&CK mapping
+- Incident investigation
 
 ---
+# 🏗️ SOC Lab Architecture
+
+<p align="center">
+  <img src="./images/wazuh-architecture.png" width="900">
+</p>
 
 ## 🔐 SSH Brute Force Detection
 
@@ -150,13 +157,14 @@ Detecting enumeration attacks performed using
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anoop-ambrose&theme=algolia&column=4">
-
-</p>
+- Detection Engineering
+- Threat Hunting
+- Sigma Rules
+- Security Automation
+- Advanced Wazuh Use Cases
+- Web Application Security
 
 ---
 
@@ -164,8 +172,8 @@ Detecting enumeration attacks performed using
 
 - LinkedIn
 - GitHub
-- Portfolio (Coming Soon)
-
+  
+🌐 Portfolio: https://anoopambrose.com
 ---
 
 <p align="center">
